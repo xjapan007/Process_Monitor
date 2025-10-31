@@ -4,6 +4,12 @@ Un outil de surveillance système multiplateforme (Windows/Linux) construit avec
 
 ![Aperçu de l'application](https://private-user-images.githubusercontent.com/190843055/508230348-b5a209fa-1f23-4035-892a-52ff504e2027.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE5MTk0ODksIm5iZiI6MTc2MTkxOTE4OSwicGF0aCI6Ii8xOTA4NDMwNTUvNTA4MjMwMzQ4LWI1YTIwOWZhLTFmMjMtNDAzNS04OTJhLTUyZmY1MDRlMjAyNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAzMVQxMzU5NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYWQ5ZTIwYzdhZjRjOTk5NWY1M2ZmYTM3NjY2NzBlNDFkYmM1MTRlZjdiY2E2MTUxNjFjNzFlZmI1MjJiYTBlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yNKpDg588ixg1fVxKgEKE_kQH4iMFhUmob8QYxf2Dxs)
 
+## ❤️ Soutenir le projet
+
+Si ce projet vous est utile et que vous souhaitez me remercier, vous pouvez m'offrir un café !
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P21NKY2H)
+
 ## 🚀 Fonctionnalités
 
 * **Tableau de bord principal :**
@@ -44,7 +50,7 @@ Si vous êtes un développeur et que vous souhaitez l'exécuter depuis le code :
 
 1.  Clonez ce dépôt :
     ```bash
-    git clone [https://github.com/VotreNom/NOM-DU-REPO.git](https://github.com/xjapan007/Process_Monitor.git)
+    git clone https://github.com/xjapan007/Process_Monitor.git
     cd Process_Monitor
     ```
 
@@ -80,3 +86,9 @@ Si vous êtes un développeur et que vous souhaitez l'exécuter depuis le code :
 * `pystray`
 * `pillow`
 * `pynvml` (pour la surveillance GPU NVIDIA)
+
+## ❤️ Soutenir le projet
+
+Si ce projet vous est utile et que vous souhaitez me remercier, vous pouvez m'offrir un café !
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P21NKY2H)
