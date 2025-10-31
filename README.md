@@ -2,10 +2,7 @@
 
 Un outil de surveillance système multiplateforme (Windows/Linux) construit avec Python, PSUtil et Tkinter. Inclut des graphiques en temps réel, des alertes et un widget de bureau.
 
-![Aperçu de l'application]
-*(Vous pourrez ajouter une capture d'écran ici plus tard)*
-
----
+![Aperçu de l'application](https://private-user-images.githubusercontent.com/190843055/508230348-b5a209fa-1f23-4035-892a-52ff504e2027.png)
 
 ## 🚀 Fonctionnalités
 
