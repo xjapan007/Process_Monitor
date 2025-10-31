@@ -1,0 +1,25 @@
+# Fichiers compilés (Produits finaux)
+# On ne met jamais les .exe ou binaires sur le repo principal
+/win/
+/lin/
+
+# Dossiers de compilation de PyInstaller
+/build/
+/dist/
+*.spec
+
+# Environnement virtuel Python
+/venv/
+
+# Fichiers de base de données (données utilisateur)
+*.db
+*.sqlite
+*.sqlite3
+
+# Fichiers de configuration utilisateur
+config.json
+
+# Fichiers cache Python
+__pycache__/
+*.pyc
+*.pyo

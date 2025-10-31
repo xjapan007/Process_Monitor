@@ -1,0 +1,6 @@
+psutil
+matplotlib
+ttkthemes
+pystray
+pillow
+pynvml
